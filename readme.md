@@ -17,7 +17,7 @@ problems, please file an issue and I'll take a look.
 
 In Bundler:
 ```ruby
-gem "koala"
+gem 'koala', github: 'responsa/koala', branch: 'master'
 ```
 
 Otherwise:
